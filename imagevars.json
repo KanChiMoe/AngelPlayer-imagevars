@@ -202,7 +202,12 @@
     "respect"       : [ { } ],
     "scared"        : [ { } ],
     "share"         : [ { } ],
-    "sip"           : [ { } ],
+    "sip": [ 
+        { 
+            "link": "https://cdn.discordapp.com/attachments/398191639488757770/691888594788548638/1.gif",
+            "source":"Not yet provided."
+        }
+    ],
     "smack"         : [ { } ],
     "smile"         : [ { } ],
     "smug"          : [ { } ],
