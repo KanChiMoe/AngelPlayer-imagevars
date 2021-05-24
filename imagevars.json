@@ -173,7 +173,36 @@
             "source":"Touhou"
         }
     ],
-    "bored"         : [ { } ],
+    "bored": [ 
+        { 
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/721030246832406619/1.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/726630574235582524/2.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/728011764737900624/3.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/723930127422980167/4.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/724449079953719296/5.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/694088774526828564/3.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/694088160941965363/5.gif",
+            "source": "Not yet provided."
+        }
+    ],
     "compliment"    : [ { } ],
     "cry"           : [ { } ],
     "cuddle"        : [ { } ],
