@@ -221,7 +221,12 @@
     "laugh"         : [ { } ],
     "lolihug"       : [ { } ],
     "nani"          : [ { } ],
-    "goodnight"     : [ { } ],
+    "goodnight": [
+        {
+            "link": "https://cdn.discordapp.com/attachments/433260667437318144/849058226405376000/qWYFfOI.gif",
+            "source": "So I'm a spider, so what?"
+        }
+    ],
     "nod"           : [ { } ],
     "nom"           : [ { } ],
     "pat"           : [ { } ],
