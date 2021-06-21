@@ -444,7 +444,68 @@
             "source": "Not yet provided."
         }
     ],
-    "dance"         : [ { } ],
+    "dance": [ 
+        {
+            "link": "https://cdn.discordapp.com/attachments/439593890505424896/628738704726294538/2.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/439593890505424896/697913453821558804/3.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/439593890505424896/716251181164396624/5.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/439593890505424896/628738845403512843/6.gif",
+            "source": "Love Is War"
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/439593890505424896/697913490161008721/7.gif",
+            "source": "Eromanga Sensei"
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/398171202306310164/634403625635938304/c1.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/722918677439184912/1.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/726131882365943848/2.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/714316096588611634/3.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/696299248261660762/4.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/692284249784451122/5.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/727261501794156605/6.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/681517959063404584/7.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/692481985431732294/8.gif",
+            "source": "Nichijou"
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/661533297096130560/alot.gif",
+            "source": "Not yet provided."
+        }
+    ],
     "excited"       : [ { } ],
     "glare"         : [ { } ],
     "goodmorning"   : [ { } ],
