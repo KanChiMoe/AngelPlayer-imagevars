@@ -506,7 +506,28 @@
             "source": "Not yet provided."
         }
     ],
-    "excited"       : [ { } ],
+    "excited": [ 
+        {
+            "link": "https://cdn.discordapp.com/attachments/439593890505424896/611177355855265832/1.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/439593890505424896/696496538406617088/2.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/712693816087543808/3.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/677991843589521408/4.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/698417501276471348/5.gif",
+            "source": "Not yet provided."
+        }
+    ],
     "glare"         : [ { } ],
     "goodmorning"   : [ { } ],
     "handshake"     : [ { } ],
