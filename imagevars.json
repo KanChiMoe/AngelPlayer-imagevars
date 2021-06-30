@@ -715,7 +715,32 @@
             "source": "Not yet provided."
         }
     ],
-    "highfive"      : [ { } ],
+    "highfive": [ 
+        { 
+            "link": "https://cdn.discordapp.com/attachments/398191639488757770/729415784656535631/image0.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/398191639488757770/694261565003792474/1.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/533360771585802242/702963058833883136/2.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/398191639488757770/694622227936837672/3.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/503488776052408320/696051794404442173/4.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/722165382483542016/5.gif",
+            "source": "Not yet provided."
+        }
+    ],
     "holdhands"     : [ { } ],
     "hug"           : [ { } ],
     "kiss"          : [ { } ],
