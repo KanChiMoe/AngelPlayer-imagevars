@@ -741,7 +741,48 @@
             "source": "Not yet provided."
         }
     ],
-    "holdhands"     : [ { } ],
+    "holdhands": [ 
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/705510086138789898/11.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/719653246616076437/10.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/708080678217973780/12.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/714902200538890250/13.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/439593890505424896/610987392077266955/4.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/725093800082407526/5.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/709837570636382219/6.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/723377887448793119/7.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/707125265628921897/8.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/708045850894401608/9.gif",
+            "source": "Not yet provided."
+        }
+    ],
     "hug"           : [ { } ],
     "kiss"          : [ { } ],
     "laugh"         : [ { } ],
