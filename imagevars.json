@@ -1003,7 +1003,44 @@
             "source": "Little Witch Academia"
         }
     ],
-    "nani"          : [ { } ],
+    "nani": [ 
+        {
+            "link": "https://cdn.discordapp.com/attachments/439593890505424896/697912653674184744/2.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/439593890505424896/716048462919237632/3.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/653076864482541569/718477124742414346/4.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/439593890505424896/697913028318068766/5.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/398191639488757770/703348357787287632/6.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/503488776052408320/717365098368204800/7.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/398171202306310164/629765527551737856/8.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/439593890505424896/697230851364093982/9.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/398191639488757770/729414806544580628/image0.gif",
+            "source": "Not yet provided."
+        }
+    ],
     "goodnight": [
         {
             "link": "https://cdn.discordapp.com/attachments/433260667437318144/849058226405376000/qWYFfOI.gif",
