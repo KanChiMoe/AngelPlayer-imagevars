@@ -1119,7 +1119,56 @@
             "source": "Not yet provided."
         }
     ],
-    "nod"           : [ { } ],
+    "nod": [ 
+        { 
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/715250147461955634/1.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/681438304553402369/10.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/722194938670088253/2.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/722172219823751270/3.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/695589992012972042/4.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/439593890505424896/683010980866949146/5.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/698413784653627442/6.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/398191639488757770/722172158578524281/7.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/722172400896180264/8.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/698426539712446484/9.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/681214874881359958/1.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/681216272477847623/2.gif",
+            "source": "Not yet provided."
+        }
+    ],
     "nom"           : [ { } ],
     "pat"           : [ { } ],
     "pirate"        : [ { } ],
