@@ -1276,7 +1276,12 @@
         }
     ],
     "pat"           : [ { } ],
-    "pirate"        : [ { } ],
+    "pirate": [ 
+        {
+            "link": "https://cdn.discordapp.com/attachments/439593890505424896/720652499949977600/pirate.gif",
+            "source": "Not yet provided."
+        }
+    ],
     "poke"          : [ { } ],
     "pout"          : [ { } ],
     "respect"       : [ { } ],
