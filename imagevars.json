@@ -38,7 +38,7 @@
         },
         {
             "link": "https://cdn.discordapp.com/attachments/398191639488757770/657120246158721044/18.gif",
-            "source": "Angel Beats"
+            "source": "Angel Beats!"
         },
         {
             "link": "https://cdn.discordapp.com/attachments/533360771585802242/692494885839962212/19.gif",
@@ -134,7 +134,7 @@
         },
         {
             "link": "https://cdn.discordapp.com/attachments/398191639488757770/657120246158721044/18.gif",
-            "source": "Angel Beats"
+            "source": "Angel Beats!"
         },
         {
             "link": "https://cdn.discordapp.com/attachments/398191639488757770/679823999924174872/2.gif",
@@ -1275,7 +1275,84 @@
             "source": "Not yet provided."
         }
     ],
-    "pat"           : [ { } ],
+    "pat": [
+        {
+            "link": "https://cdn.discordapp.com/attachments/439593890505424896/696262304131711046/11.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/398171202306310164/629754654821187597/10.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/439593890505424896/722868175108046919/12.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/439593890505424896/714922347433558067/13.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/439593890505424896/705854426510000238/14.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/439593890505424896/677648116715094065/15.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/439593890505424896/714929119502139472/5.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/439593890505424896/697265877942534252/6.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/439593890505424896/697264187822309386/7.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/439593890505424896/689322583845634088/8.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/439593890505424896/687861806080720896/9.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/398191639488757770/729415827626917928/image0.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/439593890505424896/697267559719764068/kanna1.gif",
+            "source": "Angel Beats!"
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/604351010344796174/1.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/604464392305901588/3.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/604350230581739530/5.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/604675136116883466/9.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.weeb.sh/images/H10CD5Oub.jpeg",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.weeb.sh/images/ByBxP5du-.png",
+            "source": "Not yet provided."
+        }
+    ],
     "pirate": [ 
         {
             "link": "https://cdn.discordapp.com/attachments/439593890505424896/720652499949977600/pirate.gif",
