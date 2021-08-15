@@ -175,6 +175,10 @@
         {
             "link": "https://cdn.discordapp.com/attachments/398191639488757770/874402996656672878/1.gif",
             "source": "A Certain Scientific Railgun"
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/653067278472052736/876293535253549066/3.gif",
+            "source": "A Certain Scientific Railgun"
         }
     ],
     "bored": [ 
@@ -292,6 +296,10 @@
         {
             "link": "https://cdn.discordapp.com/attachments/399008549491048448/681524925110157349/9.gif",
             "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/653067278472052736/876291886241951744/4.gif",
+            "source":"A Certain Scientific Railgun"
         }
     ],
     "cuddle": [ 
@@ -879,6 +887,14 @@
         {
             "link": "https://cdn.discordapp.com/attachments/439593890505424896/723014843061501982/3.gif",
             "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/653067278472052736/876292321036099665/2.gif",
+            "source":"A Certain Scientific Railgun"
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/653067278472052736/876292691124686848/3.gif",
+            "source": "A Certain Scientific Railgun"
         }
     ],
     "kiss": [ 
@@ -975,6 +991,14 @@
         {
             "link": "https://cdn.discordapp.com/attachments/398171202306310164/717428319762513950/8.gif",
             "source": "K-on!"
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/653067278472052736/876293821305085982/2.gif",
+            "source": "A Certain Scientific Railgun"
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/653067278472052736/876294097403514890/5.gif",
+            "source": "A Certain Scientific Railgun"
         }
     ],
     "lolihug": [ 
@@ -1497,6 +1521,10 @@
         {
             "link": "https://cdn.discordapp.com/attachments/399008549491048448/706260690607931503/9.gif",
             "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/653067278472052736/876295201512124426/1.gif",
+            "source": "A Certain Scientific Railgun"
         }
     ],
     "respect": [ 
@@ -1577,7 +1605,12 @@
     "smile"         : [ { } ],
     "smug"          : [ { } ],
     "spank"         : [ { } ],
-    "wasted"        : [ { } ],
+    "wasted": [ 
+        {
+            "link": "https://cdn.discordapp.com/attachments/653067278472052736/876294567215890532/6.gif",
+            "source": "A Certain Scientific Railgun"
+        }
+    ],
     "wave"          : [ { } ]
 }
 
