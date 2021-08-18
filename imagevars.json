@@ -1629,7 +1629,37 @@
             "source": "Not yet provided."
         }
     ],    
-    "scared"        : [ { } ],
+    "scared": [
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/722914926443626506/1.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/713454540443091155/2.gif",
+            "source": "Not yet provided."
+        }
+        ,
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/710511954011357266/3.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/707027150896758794/4.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/722107525717295114/6.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/722914454874095766/8.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/710510015957434451/9.gif",
+            "source": "Not yet provided."
+        }
+    ],
     "share"         : [ { } ],
     "sip": [ 
         { 
