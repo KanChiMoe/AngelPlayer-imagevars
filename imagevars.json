@@ -1660,7 +1660,28 @@
             "source": "Not yet provided."
         }
     ],
-    "share"         : [ { } ],
+    "share": [
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/655757491900121129/1.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/689949035502502021/2.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/629580829575741450/4.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/611319604911931394/5.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/700769471861882890/6.gif",
+            "source": "Not yet provided."
+        }
+    ],
     "sip": [ 
         { 
             "link": "https://cdn.discordapp.com/attachments/398191639488757770/691888594788548638/1.gif",
