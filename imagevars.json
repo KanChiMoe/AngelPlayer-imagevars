@@ -1816,7 +1816,40 @@
             "source": "Not yet provided."
         }
     ],
-    "smug"          : [ { } ],
+    "smug": [ 
+        {
+            "link": "https://cdn.discordapp.com/attachments/439593890505424896/697268984545804399/1.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/439593890505424896/697276548964810862/2.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/710578181039718470/3.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/715630104285413396/4.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/398171202306310164/707680490835935362/5.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/722923231266210128/6.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/711967767942922331/7.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/439593890505424896/697916695469359234/8.gif",
+            "source": "Not yet provided."
+        }
+    ],
     "spank"         : [ { } ],
     "wasted": [ 
         {
