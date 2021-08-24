@@ -1850,7 +1850,32 @@
             "source": "Not yet provided."
         }
     ],
-    "spank"         : [ { } ],
+    "spank": [ 
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/604287399140261898/1.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/604287271369179136/2.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/604287349504868353/3.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/604247870668800000/1.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/604121203615203329/3.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/604188155373027338/5.gif",
+            "source": "Not yet provided."
+        }
+    ],
     "wasted": [ 
         {
             "link": "https://cdn.discordapp.com/attachments/653067278472052736/876294567215890532/6.gif",
