@@ -1938,6 +1938,59 @@
             "source": "Not yet provided."
         }
     ],
-    "wave"          : [ { } ]
+    "wave": [ 
+        {
+            "link": "https://cdn.discordapp.com/attachments/439593890505424896/696571529823256576/1.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/439593890505424896/713821471784566844/10.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/439593890505424896/713821432508973177/11.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/398170736398696458/715318476624887838/12.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/653076864482541569/715651384506056837/13.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/715625736131707000/14.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/653076864482541569/728338890154442863/15.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/398191639488757770/697146821947949097/2.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/439593890505424896/713821523047219291/3.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/725683236008624228/6.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/723529802774085772/7.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/399008549491048448/728086748378169374/8.gif",
+            "source": "Not yet provided."
+        },
+        {
+            "link": "https://cdn.discordapp.com/attachments/398191639488757770/697146818332721242/9.gif",
+            "source": "Not yet provided."
+        }        
+    ]
 }
 
